@@ -41,15 +41,11 @@ To execute the workflow the following scripts were run in this order.
 
 ## References
 
-1. Bolger, Anthony M., Marc Lohse, and Bjoern Usadel. "Trimmomatic: A Flexible 
-Trimmer for Illumina Sequence Data." Bioinformatics 30.15 (2014): 2114-120. 
-Web.
+1. Bolger, Anthony M., Marc Lohse, and Bjoern Usadel. "Trimmomatic: A Flexible  Trimmer for Illumina Sequence Data." Bioinformatics 30.15 (2014): 2114-120. Web.
 
 2. Wu, Thomas D, Jens Reeder, Michael Lawrence, Gabe Becker, and Matthew J 
-Brauer. "GMAP and GSNAP for Genomic Sequence Alignment: Enhancements to Speed, 
-Accuracy, and Functionality." Methods in Molecular Biology (Clifton, N.J.) 
-1418 (2016): 283-334. Web.
+Brauer. "GMAP and GSNAP for Genomic Sequence Alignment: Enhancements to Speed, Accuracy, and Functionality." Methods in Molecular Biology (Clifton, N.J.) 1418 (2016): 283-334. Web.
 
-3. Li, Heng, Bob Handsaker, Alec Wysoker, Tim Fennell, Jue Ruan, Nils Homer, 
-Gabor Marth, Goncalo Abecasis, and Richard Durbin. "The Sequence Alignment/Map 
-Format and SAMtools." Bioinformatics 25.16 (2009): 2078-079. Web.
+3. Li, Heng, Bob Handsaker, Alec Wysoker, Tim Fennell, Jue Ruan, Nils Homer, Gabor Marth, Goncalo Abecasis, and Richard Durbin. "The Sequence Alignment/Map Format and SAMtools." Bioinformatics 25.16 (2009): 2078-079. Web.
+
+4. Fan, Lin, Nusbaum, Chad, Haas, Brian J, Chen, Zehua, Lindblad-Toh, Kerstin, Raychowdhury, Raktima, . . . Levin, Joshua Z. (2011). Full-length transcriptome assembly from RNA-Seq data without a reference genome. Nature Biotechnology, 29(7), 644-652.
