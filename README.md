@@ -48,4 +48,4 @@ Brauer. "GMAP and GSNAP for Genomic Sequence Alignment: Enhancements to Speed, A
 
 3. Li, Heng, Bob Handsaker, Alec Wysoker, Tim Fennell, Jue Ruan, Nils Homer, Gabor Marth, Goncalo Abecasis, and Richard Durbin. "The Sequence Alignment/Map Format and SAMtools." Bioinformatics 25.16 (2009): 2078-079. Web.
 
-4. Fan, Lin, Nusbaum, Chad, Haas, Brian J, Chen, Zehua, Lindblad-Toh, Kerstin, Raychowdhury, Raktima, . . . Levin, Joshua Z. (2011). Full-length transcriptome assembly from RNA-Seq data without a reference genome. Nature Biotechnology, 29(7), 644-652.
+4. Fan, Lin, Nusbaum, Chad, Haas, Brian J, Chen, Zehua, Lindblad-Toh, Kerstin, Raychowdhury, Raktima, Birren, Bruce W, Adiconis, Xian, Gnirke, Andreas, Amit, Ido, Yassour, Moran, Friedman, Nir, Zeng, Qiandong, Hacohen, Nir, Grabherr, Manfred G, Regev, Aviv, Mauceli, Evan, Rhind, Nicholas, Thompson, Dawn A, Di Palma, Federica, and Levin, Joshua Z. "Full-length Transcriptome Assembly from RNA-Seq Data without a Reference Genome." Nature Biotechnology 29.7 (2011): 644-52. Web.
